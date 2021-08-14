@@ -6,7 +6,7 @@
 
 An android app which can INSTANTLY alert the Guardians( along with user location ) whenever the user is in an emergency situation.
 
-Project Video https://www.youtube.com/watch?v=vPCtDNXqf1E
+
 
 ### Software Requirement
 - Android Studio
@@ -23,11 +23,3 @@ Project Video https://www.youtube.com/watch?v=vPCtDNXqf1E
 
 
 
-
-License
-----
-
-
-**Free Software, Hell Yeah!**
-
-[PHP]: <https://github.com/iamjithinjohnson/AndroidStudio-Project-WomenSafety/tree/master/php>
